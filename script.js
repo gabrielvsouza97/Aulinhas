@@ -16,5 +16,5 @@ let comboModelo = document.querySelector("#calculo").value;
 
 //Preencher o campo com os valores referente ao combobox
 
-
+//Tirar a cor dos campos após 10 segundos da modificação
 
